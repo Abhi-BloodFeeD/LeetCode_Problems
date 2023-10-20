@@ -24,6 +24,9 @@
 // Input: nestedList = [1,[4,[6]]]
 // Output: [1,4,6]
 // Explanation: By calling next repeatedly until hasNext returns false, the order of elements returned by next should be: [1,4,6].
+
+
+
 // ----------- SOLUTION ------------
 
 /**
